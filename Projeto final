@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html lang="pt-br">
+    <body>
+    
+     <head>
+        <style>
+            header{background-color: rgb(1, 53, 1);}
+            body{background-color:rgb(255, 251, 244) ;}
+            button{background-color: rgb(88, 179, 88);}
+        h1{color: antiquewhite;}
+        </style>
+        <header>
+            <h1>Cara de paisagismo</h1>
+            <nav>
+                <a href="Projeto final">Home</a>
+                <a href="Cadastro.html">Cadastro</a>
+                <a href="Detalhe.html">Detalhes</a>
+            </nav>
+        </header>
+        
+        <main>
+            <button>Catalogo</button>
+            <section>
+                <article>
+                    <img src="dra.jpg" width="200" height="200"
+                    <h3>Dracena Tricolor</h3>
+                     <img src="cact.jpg" width="200" height="200"
+                    <h3>cacto palma</h3>
+                      <img src="Fic.jpg" width="200" height="200"
+                    <h3>Ficus Elastica</h3>
+                      <img src="aga.jpg" width="200" height="200"
+                    <h3>Agave Azul</h3>
+                </article>
+            </section>
+            
+        </main>
+
+    </head>
+   
+
+    </body>
+
+</html>
